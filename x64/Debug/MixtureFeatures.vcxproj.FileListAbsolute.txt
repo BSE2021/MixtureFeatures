@@ -1,0 +1,2 @@
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\MixtureFeatures\x64\Debug\MixtureFeatures.exe
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\MixtureFeatures\x64\Debug\MixtureFeatures.pdb
